@@ -1,0 +1,1 @@
+# The Image Recognition Web App is an innovative application that leverages machine learning to analyze and describe the content of uploaded images.
